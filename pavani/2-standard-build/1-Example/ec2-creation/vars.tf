@@ -5,6 +5,6 @@ variable AWS_REGION {
 
 # Security Group
 variable "SG" {
-  default     = "sg-0d0081b0262cba012"
+  default     = "sg-0397e79f464fbc01f"
 }
 
